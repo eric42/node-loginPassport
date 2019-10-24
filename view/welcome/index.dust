@@ -32,7 +32,6 @@
         <button class="btn btn-primary" style="margin-bottom: 10;" type="submit">Login</button>&nbsp
       </span>
     </div>
-    <p class="mt-5 mb-3 text-muted">&copy; 2018 - @thihenos</p>
   </form>
 
  <script type="text/javascript" src="/js/bootstrap.js"></script>
