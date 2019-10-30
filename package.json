@@ -27,6 +27,6 @@
     "path": "*",
     "pg": "*",
     "pg-native": "*",
-    "sequelize": "^4.31.2"
+    "sequelize": "^5.15.1"
   }
 }
